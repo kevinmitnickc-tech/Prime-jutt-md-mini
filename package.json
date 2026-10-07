@@ -1,0 +1,13 @@
+{
+  "name": "prime-jutt-whatsapp-bot-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter WhatsApp Cloud API bot and neon dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
